@@ -220,9 +220,6 @@ ChatBook includes comprehensive logging:
 5. Push to the branch: `git push origin feature-name`
 6. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
